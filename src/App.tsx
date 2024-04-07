@@ -31,6 +31,9 @@ function App() {
       <a href='https://github.com/Chris-Coleongco/PushupCounterPytorch'>
       https://github.com/Chris-Coleongco/PushupCounterPytorch
       </a>
+      <a href='https://github.com/Chris-Coleongco/ChurnPredictor'>
+      https://github.com/Chris-Coleongco/PushupCounterPytorch
+      </a>
     </>
   )
 }
