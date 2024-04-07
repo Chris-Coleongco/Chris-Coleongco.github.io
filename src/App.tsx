@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>XTN</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -26,8 +26,11 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        just listing my cooler stuff here. this website is hella incomplete twt
       </p>
+      <a href='https://github.com/Chris-Coleongco/PushupCounterPytorch'>
+      https://github.com/Chris-Coleongco/PushupCounterPytorch
+      </a>
     </>
   )
 }
